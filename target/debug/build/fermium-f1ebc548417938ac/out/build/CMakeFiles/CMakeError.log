@@ -1,0 +1,34 @@
+Performing C SOURCE FILE Test HAVE_XINPUT_GAMEPAD_EX failed with the following output:
+Change Dir: C:/Users/yasna/OneDrive/Escritorio/Emmanuel/Ruben/target/debug/build/fermium-f1ebc548417938ac/out/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_2ae86.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:m && Microsoft (R) Build Engine versión 17.0.0+c9eb9dd64 para .NET Framework
+Copyright (C) Microsoft Corporation. Todos los derechos reservados.
+
+  src.c
+C:\Users\yasna\OneDrive\Escritorio\Emmanuel\Ruben\target\debug\build\fermium-f1ebc548417938ac\out\build\CMakeFiles\CMakeTmp\src.c(4,27): error C2061: error de sintaxis: identificador 'x1' [C:\Users\yasna\OneDrive\Escritorio\Emmanuel\Ruben\target\debug\build\fermium-f1ebc548417938ac\out\build\CMakeFiles\CMakeTmp\cmTC_2ae86.vcxproj]
+C:\Users\yasna\OneDrive\Escritorio\Emmanuel\Ruben\target\debug\build\fermium-f1ebc548417938ac\out\build\CMakeFiles\CMakeTmp\src.c(4,27): error C2059: error de sintaxis: ';' [C:\Users\yasna\OneDrive\Escritorio\Emmanuel\Ruben\target\debug\build\fermium-f1ebc548417938ac\out\build\CMakeFiles\CMakeTmp\cmTC_2ae86.vcxproj]
+
+
+Source file was:
+
+        #include <windows.h>
+        #include <xinput.h>
+        XINPUT_GAMEPAD_EX x1;
+        int main(int argc, char **argv) { }
+Performing C SOURCE FILE Test HAVE_XINPUT_STATE_EX failed with the following output:
+Change Dir: C:/Users/yasna/OneDrive/Escritorio/Emmanuel/Ruben/target/debug/build/fermium-f1ebc548417938ac/out/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_0b608.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:m && Microsoft (R) Build Engine versión 17.0.0+c9eb9dd64 para .NET Framework
+Copyright (C) Microsoft Corporation. Todos los derechos reservados.
+
+  src.c
+C:\Users\yasna\OneDrive\Escritorio\Emmanuel\Ruben\target\debug\build\fermium-f1ebc548417938ac\out\build\CMakeFiles\CMakeTmp\src.c(4,25): error C2061: error de sintaxis: identificador 's1' [C:\Users\yasna\OneDrive\Escritorio\Emmanuel\Ruben\target\debug\build\fermium-f1ebc548417938ac\out\build\CMakeFiles\CMakeTmp\cmTC_0b608.vcxproj]
+C:\Users\yasna\OneDrive\Escritorio\Emmanuel\Ruben\target\debug\build\fermium-f1ebc548417938ac\out\build\CMakeFiles\CMakeTmp\src.c(4,25): error C2059: error de sintaxis: ';' [C:\Users\yasna\OneDrive\Escritorio\Emmanuel\Ruben\target\debug\build\fermium-f1ebc548417938ac\out\build\CMakeFiles\CMakeTmp\cmTC_0b608.vcxproj]
+
+
+Source file was:
+
+        #include <windows.h>
+        #include <xinput.h>
+        XINPUT_STATE_EX s1;
+        int main(int argc, char **argv) { }

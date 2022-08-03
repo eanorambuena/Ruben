@@ -1,0 +1,12 @@
+C:\Users\yasna\OneDrive\Escritorio\Emmanuel\Ruben\target\release\deps\half-d5af1b95c158a361.rmeta: C:\Users\yasna\.cargo\registry\src\github.com-1ecc6299db9ec823\half-1.8.2\src\lib.rs C:\Users\yasna\.cargo\registry\src\github.com-1ecc6299db9ec823\half-1.8.2\src\bfloat.rs C:\Users\yasna\.cargo\registry\src\github.com-1ecc6299db9ec823\half-1.8.2\src\bfloat\convert.rs C:\Users\yasna\.cargo\registry\src\github.com-1ecc6299db9ec823\half-1.8.2\src\binary16.rs C:\Users\yasna\.cargo\registry\src\github.com-1ecc6299db9ec823\half-1.8.2\src\binary16\convert.rs C:\Users\yasna\.cargo\registry\src\github.com-1ecc6299db9ec823\half-1.8.2\src\slice.rs
+
+C:\Users\yasna\OneDrive\Escritorio\Emmanuel\Ruben\target\release\deps\libhalf-d5af1b95c158a361.rlib: C:\Users\yasna\.cargo\registry\src\github.com-1ecc6299db9ec823\half-1.8.2\src\lib.rs C:\Users\yasna\.cargo\registry\src\github.com-1ecc6299db9ec823\half-1.8.2\src\bfloat.rs C:\Users\yasna\.cargo\registry\src\github.com-1ecc6299db9ec823\half-1.8.2\src\bfloat\convert.rs C:\Users\yasna\.cargo\registry\src\github.com-1ecc6299db9ec823\half-1.8.2\src\binary16.rs C:\Users\yasna\.cargo\registry\src\github.com-1ecc6299db9ec823\half-1.8.2\src\binary16\convert.rs C:\Users\yasna\.cargo\registry\src\github.com-1ecc6299db9ec823\half-1.8.2\src\slice.rs
+
+C:\Users\yasna\OneDrive\Escritorio\Emmanuel\Ruben\target\release\deps\half-d5af1b95c158a361.d: C:\Users\yasna\.cargo\registry\src\github.com-1ecc6299db9ec823\half-1.8.2\src\lib.rs C:\Users\yasna\.cargo\registry\src\github.com-1ecc6299db9ec823\half-1.8.2\src\bfloat.rs C:\Users\yasna\.cargo\registry\src\github.com-1ecc6299db9ec823\half-1.8.2\src\bfloat\convert.rs C:\Users\yasna\.cargo\registry\src\github.com-1ecc6299db9ec823\half-1.8.2\src\binary16.rs C:\Users\yasna\.cargo\registry\src\github.com-1ecc6299db9ec823\half-1.8.2\src\binary16\convert.rs C:\Users\yasna\.cargo\registry\src\github.com-1ecc6299db9ec823\half-1.8.2\src\slice.rs
+
+C:\Users\yasna\.cargo\registry\src\github.com-1ecc6299db9ec823\half-1.8.2\src\lib.rs:
+C:\Users\yasna\.cargo\registry\src\github.com-1ecc6299db9ec823\half-1.8.2\src\bfloat.rs:
+C:\Users\yasna\.cargo\registry\src\github.com-1ecc6299db9ec823\half-1.8.2\src\bfloat\convert.rs:
+C:\Users\yasna\.cargo\registry\src\github.com-1ecc6299db9ec823\half-1.8.2\src\binary16.rs:
+C:\Users\yasna\.cargo\registry\src\github.com-1ecc6299db9ec823\half-1.8.2\src\binary16\convert.rs:
+C:\Users\yasna\.cargo\registry\src\github.com-1ecc6299db9ec823\half-1.8.2\src\slice.rs:

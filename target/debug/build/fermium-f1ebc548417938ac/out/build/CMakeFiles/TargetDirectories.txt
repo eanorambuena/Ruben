@@ -1,0 +1,6 @@
+C:/Users/yasna/OneDrive/Escritorio/Emmanuel/Ruben/target/debug/build/fermium-f1ebc548417938ac/out/build/CMakeFiles/SDL2main.dir
+C:/Users/yasna/OneDrive/Escritorio/Emmanuel/Ruben/target/debug/build/fermium-f1ebc548417938ac/out/build/CMakeFiles/SDL2-static.dir
+C:/Users/yasna/OneDrive/Escritorio/Emmanuel/Ruben/target/debug/build/fermium-f1ebc548417938ac/out/build/CMakeFiles/uninstall.dir
+C:/Users/yasna/OneDrive/Escritorio/Emmanuel/Ruben/target/debug/build/fermium-f1ebc548417938ac/out/build/CMakeFiles/INSTALL.dir
+C:/Users/yasna/OneDrive/Escritorio/Emmanuel/Ruben/target/debug/build/fermium-f1ebc548417938ac/out/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/yasna/OneDrive/Escritorio/Emmanuel/Ruben/target/debug/build/fermium-f1ebc548417938ac/out/build/CMakeFiles/ZERO_CHECK.dir

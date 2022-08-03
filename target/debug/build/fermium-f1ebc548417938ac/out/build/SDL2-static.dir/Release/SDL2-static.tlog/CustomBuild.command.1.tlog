@@ -1,0 +1,10 @@
+^C:\USERS\YASNA\.CARGO\REGISTRY\SRC\GITHUB.COM-1ECC6299DB9EC823\FERMIUM-0.1.4\FULL-SOURCE\SDL2-V2.0.10\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/yasna/.cargo/registry/src/github.com-1ecc6299db9ec823/fermium-0.1.4/full-source/SDL2-v2.0.10 -BC:/Users/yasna/OneDrive/Escritorio/Emmanuel/Ruben/target/debug/build/fermium-f1ebc548417938ac/out/build --check-stamp-file C:/Users/yasna/OneDrive/Escritorio/Emmanuel/Ruben/target/debug/build/fermium-f1ebc548417938ac/out/build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\yasna\OneDrive\Escritorio\Emmanuel\Ruben\target\debug\build\fermium-f1ebc548417938ac\out\build\CMakeFiles\d6a997ea0c3fb0f330f57ffae07a00e4\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{D2CC1E4D-D782-3B5E-AD1C-E0CA00BCAD7C}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

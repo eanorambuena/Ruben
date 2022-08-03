@@ -1,0 +1,10 @@
+^C:\USERS\YASNA\ONEDRIVE\ESCRITORIO\EMMANUEL\RUBEN\TARGET\DEBUG\BUILD\FERMIUM-F1EBC548417938AC\OUT\BUILD\CMAKEFILES\D6A997EA0C3FB0F330F57FFAE07A00E4\INSTALL_FORCE.RULE
+setlocal
+cd .
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

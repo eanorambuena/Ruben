@@ -1,0 +1,242 @@
+The system is: Windows - 10.0.22000 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler:  
+Build flags: ;-nologo;-MT;-Brepro
+Id flags:  
+
+The output was:
+0
+Microsoft (R) Build Engine versión 17.0.0+c9eb9dd64 para .NET Framework
+Copyright (C) Microsoft Corporation. Todos los derechos reservados.
+
+Compilación iniciada a las 01-08-2022 13:50:55.
+Proyecto "C:\Users\yasna\OneDrive\Escritorio\Emmanuel\Ruben\target\debug\build\fermium-f1ebc548417938ac\out\build\CMakeFiles\3.22.1\CompilerIdC\CompilerIdC.vcxproj" en nodo 1 (destinos predeterminados).
+PrepareForBuild:
+  Creando directorio "Debug\".
+  Creando directorio "Debug\CompilerIdC.tlog\".
+InitializeBuildStatus:
+  Se creará "Debug\CompilerIdC.tlog\unsuccessfulbuild" porque se especificó "AlwaysCreate".
+ClCompile:
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\bin\HostX64\x64\CL.exe /c /nologo /W0 /WX- /diagnostics:column /Od /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc143.pdb" /external:W0 /Gd /TC /FC /errorReport:queue CMakeCCompilerId.c
+  CMakeCCompilerId.c
+Link:
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\bin\HostX64\x64\link.exe /ERRORREPORT:QUEUE /OUT:".\CompilerIdC.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\CompilerIdC.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\CompilerIdC.lib" /MACHINE:X64 Debug\CMakeCCompilerId.obj
+  CompilerIdC.vcxproj -> C:\Users\yasna\OneDrive\Escritorio\Emmanuel\Ruben\target\debug\build\fermium-f1ebc548417938ac\out\build\CMakeFiles\3.22.1\CompilerIdC\CompilerIdC.exe
+PostBuildEvent:
+  for %%i in (cl.exe) do @echo CMAKE_C_COMPILER=%%~$PATH:i
+  :VCEnd
+  CMAKE_C_COMPILER=C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\bin\Hostx64\x64\cl.exe
+FinalizeBuildStatus:
+  Se eliminará el archivo "Debug\CompilerIdC.tlog\unsuccessfulbuild".
+  Aplicando tarea Touch a "Debug\CompilerIdC.tlog\CompilerIdC.lastbuildstate".
+Compilación del proyecto terminada "C:\Users\yasna\OneDrive\Escritorio\Emmanuel\Ruben\target\debug\build\fermium-f1ebc548417938ac\out\build\CMakeFiles\3.22.1\CompilerIdC\CompilerIdC.vcxproj" (destinos predeterminados).
+
+Compilación correcta.
+    0 Advertencia(s)
+    0 Errores
+
+Tiempo transcurrido 00:00:04.75
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.vcxproj"
+
+The C compiler identification is MSVC, found in "C:/Users/yasna/OneDrive/Escritorio/Emmanuel/Ruben/target/debug/build/fermium-f1ebc548417938ac/out/build/CMakeFiles/3.22.1/CompilerIdC/CompilerIdC.exe"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler:  
+Build flags: ;-nologo;-MT;-Brepro
+Id flags:  
+
+The output was:
+0
+Microsoft (R) Build Engine versión 17.0.0+c9eb9dd64 para .NET Framework
+Copyright (C) Microsoft Corporation. Todos los derechos reservados.
+
+Compilación iniciada a las 01-08-2022 13:51:00.
+Proyecto "C:\Users\yasna\OneDrive\Escritorio\Emmanuel\Ruben\target\debug\build\fermium-f1ebc548417938ac\out\build\CMakeFiles\3.22.1\CompilerIdCXX\CompilerIdCXX.vcxproj" en nodo 1 (destinos predeterminados).
+PrepareForBuild:
+  Creando directorio "Debug\".
+  Creando directorio "Debug\CompilerIdCXX.tlog\".
+InitializeBuildStatus:
+  Se creará "Debug\CompilerIdCXX.tlog\unsuccessfulbuild" porque se especificó "AlwaysCreate".
+ClCompile:
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\bin\HostX64\x64\CL.exe /c /nologo /W0 /WX- /diagnostics:column /Od /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc143.pdb" /external:W0 /Gd /TP /FC /errorReport:queue CMakeCXXCompilerId.cpp
+  CMakeCXXCompilerId.cpp
+Link:
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\bin\HostX64\x64\link.exe /ERRORREPORT:QUEUE /OUT:".\CompilerIdCXX.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\CompilerIdCXX.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\CompilerIdCXX.lib" /MACHINE:X64 Debug\CMakeCXXCompilerId.obj
+  CompilerIdCXX.vcxproj -> C:\Users\yasna\OneDrive\Escritorio\Emmanuel\Ruben\target\debug\build\fermium-f1ebc548417938ac\out\build\CMakeFiles\3.22.1\CompilerIdCXX\CompilerIdCXX.exe
+PostBuildEvent:
+  for %%i in (cl.exe) do @echo CMAKE_CXX_COMPILER=%%~$PATH:i
+  :VCEnd
+  CMAKE_CXX_COMPILER=C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\bin\Hostx64\x64\cl.exe
+FinalizeBuildStatus:
+  Se eliminará el archivo "Debug\CompilerIdCXX.tlog\unsuccessfulbuild".
+  Aplicando tarea Touch a "Debug\CompilerIdCXX.tlog\CompilerIdCXX.lastbuildstate".
+Compilación del proyecto terminada "C:\Users\yasna\OneDrive\Escritorio\Emmanuel\Ruben\target\debug\build\fermium-f1ebc548417938ac\out\build\CMakeFiles\3.22.1\CompilerIdCXX\CompilerIdCXX.vcxproj" (destinos predeterminados).
+
+Compilación correcta.
+    0 Advertencia(s)
+    0 Errores
+
+Tiempo transcurrido 00:00:02.42
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.exe"
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.vcxproj"
+
+The CXX compiler identification is MSVC, found in "C:/Users/yasna/OneDrive/Escritorio/Emmanuel/Ruben/target/debug/build/fermium-f1ebc548417938ac/out/build/CMakeFiles/3.22.1/CompilerIdCXX/CompilerIdCXX.exe"
+
+Detecting C compiler ABI info compiled with the following output:
+Change Dir: C:/Users/yasna/OneDrive/Escritorio/Emmanuel/Ruben/target/debug/build/fermium-f1ebc548417938ac/out/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_646c5.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:m && Microsoft (R) Build Engine versión 17.0.0+c9eb9dd64 para .NET Framework
+Copyright (C) Microsoft Corporation. Todos los derechos reservados.
+
+  CMakeCCompilerABI.c
+  cmTC_646c5.vcxproj -> C:\Users\yasna\OneDrive\Escritorio\Emmanuel\Ruben\target\debug\build\fermium-f1ebc548417938ac\out\build\CMakeFiles\CMakeTmp\Debug\cmTC_646c5.exe
+
+
+
+Detecting CXX compiler ABI info compiled with the following output:
+Change Dir: C:/Users/yasna/OneDrive/Escritorio/Emmanuel/Ruben/target/debug/build/fermium-f1ebc548417938ac/out/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_f8b4a.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:m && Microsoft (R) Build Engine versión 17.0.0+c9eb9dd64 para .NET Framework
+Copyright (C) Microsoft Corporation. Todos los derechos reservados.
+
+  CMakeCXXCompilerABI.cpp
+  cmTC_f8b4a.vcxproj -> C:\Users\yasna\OneDrive\Escritorio\Emmanuel\Ruben\target\debug\build\fermium-f1ebc548417938ac\out\build\CMakeFiles\CMakeTmp\Debug\cmTC_f8b4a.exe
+
+
+
+Performing C SOURCE FILE Test HAVE_WIN32_CC succeeded with the following output:
+Change Dir: C:/Users/yasna/OneDrive/Escritorio/Emmanuel/Ruben/target/debug/build/fermium-f1ebc548417938ac/out/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_c7e14.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:m && Microsoft (R) Build Engine versión 17.0.0+c9eb9dd64 para .NET Framework
+Copyright (C) Microsoft Corporation. Todos los derechos reservados.
+
+  src.c
+  cmTC_c7e14.vcxproj -> C:\Users\yasna\OneDrive\Escritorio\Emmanuel\Ruben\target\debug\build\fermium-f1ebc548417938ac\out\build\CMakeFiles\CMakeTmp\Debug\cmTC_c7e14.exe
+
+
+Source file was:
+
+    #include <windows.h>
+    int main(int argc, char **argv) { }
+Performing C SOURCE FILE Test HAVE_XINPUT_H succeeded with the following output:
+Change Dir: C:/Users/yasna/OneDrive/Escritorio/Emmanuel/Ruben/target/debug/build/fermium-f1ebc548417938ac/out/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_85fe7.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:m && Microsoft (R) Build Engine versión 17.0.0+c9eb9dd64 para .NET Framework
+Copyright (C) Microsoft Corporation. Todos los derechos reservados.
+
+  src.c
+  cmTC_85fe7.vcxproj -> C:\Users\yasna\OneDrive\Escritorio\Emmanuel\Ruben\target\debug\build\fermium-f1ebc548417938ac\out\build\CMakeFiles\CMakeTmp\Debug\cmTC_85fe7.exe
+
+
+Source file was:
+
+        #include <windows.h>
+        #include <xinput.h>
+        int main(int argc, char **argv) { }
+Determining if the include file d3d9.h exists passed with the following output:
+Change Dir: C:/Users/yasna/OneDrive/Escritorio/Emmanuel/Ruben/target/debug/build/fermium-f1ebc548417938ac/out/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_72769.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:m && Microsoft (R) Build Engine versión 17.0.0+c9eb9dd64 para .NET Framework
+Copyright (C) Microsoft Corporation. Todos los derechos reservados.
+
+  CheckIncludeFile.c
+  cmTC_72769.vcxproj -> C:\Users\yasna\OneDrive\Escritorio\Emmanuel\Ruben\target\debug\build\fermium-f1ebc548417938ac\out\build\CMakeFiles\CMakeTmp\Debug\cmTC_72769.exe
+
+
+
+Determining if the include file d3d11_1.h exists passed with the following output:
+Change Dir: C:/Users/yasna/OneDrive/Escritorio/Emmanuel/Ruben/target/debug/build/fermium-f1ebc548417938ac/out/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_179db.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:m && Microsoft (R) Build Engine versión 17.0.0+c9eb9dd64 para .NET Framework
+Copyright (C) Microsoft Corporation. Todos los derechos reservados.
+
+  CheckIncludeFile.c
+  cmTC_179db.vcxproj -> C:\Users\yasna\OneDrive\Escritorio\Emmanuel\Ruben\target\debug\build\fermium-f1ebc548417938ac\out\build\CMakeFiles\CMakeTmp\Debug\cmTC_179db.exe
+
+
+
+Determining if the include file ddraw.h exists passed with the following output:
+Change Dir: C:/Users/yasna/OneDrive/Escritorio/Emmanuel/Ruben/target/debug/build/fermium-f1ebc548417938ac/out/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_9c29a.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:m && Microsoft (R) Build Engine versión 17.0.0+c9eb9dd64 para .NET Framework
+Copyright (C) Microsoft Corporation. Todos los derechos reservados.
+
+  CheckIncludeFile.c
+  cmTC_9c29a.vcxproj -> C:\Users\yasna\OneDrive\Escritorio\Emmanuel\Ruben\target\debug\build\fermium-f1ebc548417938ac\out\build\CMakeFiles\CMakeTmp\Debug\cmTC_9c29a.exe
+
+
+
+Determining if the include file dsound.h exists passed with the following output:
+Change Dir: C:/Users/yasna/OneDrive/Escritorio/Emmanuel/Ruben/target/debug/build/fermium-f1ebc548417938ac/out/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_afca1.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:m && Microsoft (R) Build Engine versión 17.0.0+c9eb9dd64 para .NET Framework
+Copyright (C) Microsoft Corporation. Todos los derechos reservados.
+
+  CheckIncludeFile.c
+  cmTC_afca1.vcxproj -> C:\Users\yasna\OneDrive\Escritorio\Emmanuel\Ruben\target\debug\build\fermium-f1ebc548417938ac\out\build\CMakeFiles\CMakeTmp\Debug\cmTC_afca1.exe
+
+
+
+Determining if the include file dinput.h exists passed with the following output:
+Change Dir: C:/Users/yasna/OneDrive/Escritorio/Emmanuel/Ruben/target/debug/build/fermium-f1ebc548417938ac/out/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_8ec85.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:m && Microsoft (R) Build Engine versión 17.0.0+c9eb9dd64 para .NET Framework
+Copyright (C) Microsoft Corporation. Todos los derechos reservados.
+
+  CheckIncludeFile.c
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  cmTC_8ec85.vcxproj -> C:\Users\yasna\OneDrive\Escritorio\Emmanuel\Ruben\target\debug\build\fermium-f1ebc548417938ac\out\build\CMakeFiles\CMakeTmp\Debug\cmTC_8ec85.exe
+
+
+
+Determining if the include file dxgi.h exists passed with the following output:
+Change Dir: C:/Users/yasna/OneDrive/Escritorio/Emmanuel/Ruben/target/debug/build/fermium-f1ebc548417938ac/out/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_513a6.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:m && Microsoft (R) Build Engine versión 17.0.0+c9eb9dd64 para .NET Framework
+Copyright (C) Microsoft Corporation. Todos los derechos reservados.
+
+  CheckIncludeFile.c
+  cmTC_513a6.vcxproj -> C:\Users\yasna\OneDrive\Escritorio\Emmanuel\Ruben\target\debug\build\fermium-f1ebc548417938ac\out\build\CMakeFiles\CMakeTmp\Debug\cmTC_513a6.exe
+
+
+
+Determining if the include file mmdeviceapi.h exists passed with the following output:
+Change Dir: C:/Users/yasna/OneDrive/Escritorio/Emmanuel/Ruben/target/debug/build/fermium-f1ebc548417938ac/out/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_e5caa.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:m && Microsoft (R) Build Engine versión 17.0.0+c9eb9dd64 para .NET Framework
+Copyright (C) Microsoft Corporation. Todos los derechos reservados.
+
+  CheckIncludeFile.c
+  cmTC_e5caa.vcxproj -> C:\Users\yasna\OneDrive\Escritorio\Emmanuel\Ruben\target\debug\build\fermium-f1ebc548417938ac\out\build\CMakeFiles\CMakeTmp\Debug\cmTC_e5caa.exe
+
+
+
+Determining if the include file audioclient.h exists passed with the following output:
+Change Dir: C:/Users/yasna/OneDrive/Escritorio/Emmanuel/Ruben/target/debug/build/fermium-f1ebc548417938ac/out/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_0c443.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:m && Microsoft (R) Build Engine versión 17.0.0+c9eb9dd64 para .NET Framework
+Copyright (C) Microsoft Corporation. Todos los derechos reservados.
+
+  CheckIncludeFile.c
+  cmTC_0c443.vcxproj -> C:\Users\yasna\OneDrive\Escritorio\Emmanuel\Ruben\target\debug\build\fermium-f1ebc548417938ac\out\build\CMakeFiles\CMakeTmp\Debug\cmTC_0c443.exe
+
+
+
+Determining if the include file endpointvolume.h exists passed with the following output:
+Change Dir: C:/Users/yasna/OneDrive/Escritorio/Emmanuel/Ruben/target/debug/build/fermium-f1ebc548417938ac/out/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_b2309.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:m && Microsoft (R) Build Engine versión 17.0.0+c9eb9dd64 para .NET Framework
+Copyright (C) Microsoft Corporation. Todos los derechos reservados.
+
+  CheckIncludeFile.c
+  cmTC_b2309.vcxproj -> C:\Users\yasna\OneDrive\Escritorio\Emmanuel\Ruben\target\debug\build\fermium-f1ebc548417938ac\out\build\CMakeFiles\CMakeTmp\Debug\cmTC_b2309.exe
+
+
+
