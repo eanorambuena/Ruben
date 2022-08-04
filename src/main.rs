@@ -51,6 +51,11 @@ fn main() {
 		[-w / 2.0, -h / 2.0, w, h]
 	}
 
+	let airplane_collider_mesh = Mesh(vec![
+		crate_object(110.0, 180.0),
+		[-280.0, -60.0, 560.0, 20.0]
+	]);
+
     while let Some(event) = window.next() {
 		time.start();
 
